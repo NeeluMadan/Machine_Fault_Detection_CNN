@@ -10,16 +10,16 @@ Dataset is taken from PHM challenge 2009, consist of 13 categories of machine fa
 - each class consisting of 539 images.
 
 Sample input images (Kurtograms):
-![](https://github.com/NeeluMadan/Machine_Fault_Detection_CNN/images/sample_inputs.png)
+![](https://github.com/NeeluMadan/Machine_Fault_Detection_CNN/blob/master/images/sample_inputs.png)
 
 ## Overfitting curve:
 
 Training progress for each epoch
-![](https://github.com/NeeluMadan/Machine_Fault_Detection_CNN/images/overfitting_curves.png)
+![](https://github.com/NeeluMadan/Machine_Fault_Detection_CNN/blob/master/images/overfitting_curves.png)
 
 ## Results: 
 Total accuracy (number of correct predictions by the model) on the test set (39 images) is 91.6%.
 
 Confusion Matrix
-![](https://github.com/NeeluMadan/Machine_Fault_Detection_CNN/images/confusion_matrix.png)
+![](https://github.com/NeeluMadan/Machine_Fault_Detection_CNN/blob/master/images/confusion_matrix.png)
 
